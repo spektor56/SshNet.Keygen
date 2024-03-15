@@ -16,7 +16,7 @@ namespace SshNet.Keygen.Extensions
 
         public static string Fingerprint(this IPrivateKeySource keyFile, SshKeyHashAlgorithmName hashAlgorithm)
         {
-            return ((KeyHostAlgorithm) keyFile.HostKeyAlgorithms.First()).Key.Fingerprint(hashAlgorithm);
+            return ((KeyHostAlgorithm) keyFile.HostKey).Key.Fingerprint(hashAlgorithm);
         }
 
         #endregion
@@ -25,7 +25,7 @@ namespace SshNet.Keygen.Extensions
 
         public static string ToPublic(this IPrivateKeySource keyFile)
         {
-            return ((KeyHostAlgorithm) keyFile.HostKeyAlgorithms.First()).Key.ToPublic();
+            return ((KeyHostAlgorithm) keyFile.HostKey).Key.ToPublic();
         }
 
         #endregion
@@ -34,12 +34,12 @@ namespace SshNet.Keygen.Extensions
 
         public static string ToOpenSshFormat(this IPrivateKeySource keyFile)
         {
-            return ((KeyHostAlgorithm) keyFile.HostKeyAlgorithms.First()).Key.ToOpenSshFormat(SshKeyGenerateInfo.DefaultSshKeyEncryption);
+            return ((KeyHostAlgorithm) keyFile.HostKey).Key.ToOpenSshFormat(SshKeyGenerateInfo.DefaultSshKeyEncryption);
         }
 
         public static string ToOpenSshFormat(this IPrivateKeySource keyFile, ISshKeyEncryption encryption)
         {
-            return ((KeyHostAlgorithm) keyFile.HostKeyAlgorithms.First()).Key.ToOpenSshFormat(encryption);
+            return ((KeyHostAlgorithm) keyFile.HostKey).Key.ToOpenSshFormat(encryption);
         }
 
         #endregion
@@ -48,12 +48,12 @@ namespace SshNet.Keygen.Extensions
 
         public static string ToPuttyFormat(this IPrivateKeySource keyFile)
         {
-            return ((KeyHostAlgorithm) keyFile.HostKeyAlgorithms.First()).Key.ToPuttyFormat(SshKeyGenerateInfo.DefaultSshKeyEncryption);
+            return ((KeyHostAlgorithm) keyFile.HostKey).Key.ToPuttyFormat(SshKeyGenerateInfo.DefaultSshKeyEncryption);
         }
 
         public static string ToPuttyFormat(this IPrivateKeySource keyFile, ISshKeyEncryption encryption)
         {
-            return ((KeyHostAlgorithm) keyFile.HostKeyAlgorithms.First()).Key.ToPuttyFormat(encryption);
+            return ((KeyHostAlgorithm) keyFile.HostKey).Key.ToPuttyFormat(encryption);
         }
 
         #endregion
