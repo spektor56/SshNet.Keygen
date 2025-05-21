@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\l-bre\\source\\repos\\OpenpilotToolkit\\SshNet.Keygen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE5F3C1-0DEA-4082-90CD-9C760F834F32}|SshNet.Keygen.Sample\\SshNet.Keygen.Sample.csproj|c:\\users\\l-bre\\source\\repos\\openpilottoolkit\\sshnet.keygen\\sshnet.keygen.sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE5F3C1-0DEA-4082-90CD-9C760F834F32}|SshNet.Keygen.Sample\\SshNet.Keygen.Sample.csproj|solutionrelative:sshnet.keygen.sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6594A3E4-6C7D-417F-B747-B7D575E9548D}|SshNet.Keygen\\SshNet.Keygen.csproj|c:\\users\\l-bre\\source\\repos\\openpilottoolkit\\sshnet.keygen\\sshnet.keygen\\sshkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6594A3E4-6C7D-417F-B747-B7D575E9548D}|SshNet.Keygen\\SshNet.Keygen.csproj|solutionrelative:sshnet.keygen\\sshkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6594A3E4-6C7D-417F-B747-B7D575E9548D}|SshNet.Keygen\\SshNet.Keygen.csproj|c:\\users\\l-bre\\source\\repos\\openpilottoolkit\\sshnet.keygen\\sshnet.keygen\\extensions\\binarywriterextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6594A3E4-6C7D-417F-B747-B7D575E9548D}|SshNet.Keygen\\SshNet.Keygen.csproj|solutionrelative:sshnet.keygen\\extensions\\binarywriterextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6594A3E4-6C7D-417F-B747-B7D575E9548D}|SshNet.Keygen\\SshNet.Keygen.csproj|c:\\users\\l-bre\\source\\repos\\openpilottoolkit\\sshnet.keygen\\sshnet.keygen\\extensions\\ecdsaextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6594A3E4-6C7D-417F-B747-B7D575E9548D}|SshNet.Keygen\\SshNet.Keygen.csproj|solutionrelative:sshnet.keygen\\extensions\\ecdsaextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6594A3E4-6C7D-417F-B747-B7D575E9548D}|SshNet.Keygen\\SshNet.Keygen.csproj|c:\\users\\l-bre\\source\\repos\\openpilottoolkit\\sshnet.keygen\\sshnet.keygen\\extensions\\privatekeyfileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6594A3E4-6C7D-417F-B747-B7D575E9548D}|SshNet.Keygen\\SshNet.Keygen.csproj|solutionrelative:sshnet.keygen\\extensions\\privatekeyfileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1111,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EcdsaExtension.cs",
+              "DocumentMoniker": "C:\\Users\\l-bre\\source\\repos\\OpenpilotToolkit\\SshNet.Keygen\\SshNet.Keygen\\Extensions\\EcdsaExtension.cs",
+              "RelativeDocumentMoniker": "SshNet.Keygen\\Extensions\\EcdsaExtension.cs",
+              "ToolTip": "C:\\Users\\l-bre\\source\\repos\\OpenpilotToolkit\\SshNet.Keygen\\SshNet.Keygen\\Extensions\\EcdsaExtension.cs",
+              "RelativeToolTip": "SshNet.Keygen\\Extensions\\EcdsaExtension.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:40:13.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SshKey.cs",
+              "DocumentMoniker": "C:\\Users\\l-bre\\source\\repos\\OpenpilotToolkit\\SshNet.Keygen\\SshNet.Keygen\\SshKey.cs",
+              "RelativeDocumentMoniker": "SshNet.Keygen\\SshKey.cs",
+              "ToolTip": "C:\\Users\\l-bre\\source\\repos\\OpenpilotToolkit\\SshNet.Keygen\\SshNet.Keygen\\SshKey.cs",
+              "RelativeToolTip": "SshNet.Keygen\\SshKey.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:39:09.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinaryWriterExtension.cs",
+              "DocumentMoniker": "C:\\Users\\l-bre\\source\\repos\\OpenpilotToolkit\\SshNet.Keygen\\SshNet.Keygen\\Extensions\\BinaryWriterExtension.cs",
+              "RelativeDocumentMoniker": "SshNet.Keygen\\Extensions\\BinaryWriterExtension.cs",
+              "ToolTip": "C:\\Users\\l-bre\\source\\repos\\OpenpilotToolkit\\SshNet.Keygen\\SshNet.Keygen\\Extensions\\BinaryWriterExtension.cs",
+              "RelativeToolTip": "SshNet.Keygen\\Extensions\\BinaryWriterExtension.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowBkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:28:10.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrivateKeyFileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\l-bre\\source\\repos\\OpenpilotToolkit\\SshNet.Keygen\\SshNet.Keygen\\Extensions\\PrivateKeyFileExtension.cs",
+              "RelativeDocumentMoniker": "SshNet.Keygen\\Extensions\\PrivateKeyFileExtension.cs",
+              "ToolTip": "C:\\Users\\l-bre\\source\\repos\\OpenpilotToolkit\\SshNet.Keygen\\SshNet.Keygen\\Extensions\\PrivateKeyFileExtension.cs",
+              "RelativeToolTip": "SshNet.Keygen\\Extensions\\PrivateKeyFileExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:15:06.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\l-bre\\source\\repos\\OpenpilotToolkit\\SshNet.Keygen\\SshNet.Keygen.Sample\\Program.cs",
+              "RelativeDocumentMoniker": "SshNet.Keygen.Sample\\Program.cs",
+              "ToolTip": "C:\\Users\\l-bre\\source\\repos\\OpenpilotToolkit\\SshNet.Keygen\\SshNet.Keygen.Sample\\Program.cs",
+              "RelativeToolTip": "SshNet.Keygen.Sample\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:12:08.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
