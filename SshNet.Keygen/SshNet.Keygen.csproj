@@ -52,4 +52,8 @@
         <!-- force the vulnerable transitive up to a patched version (GHSA-447r-wph3-92pm) -->
         <PackageReference Include="System.Formats.Asn1" Version="10.0.10" />
     </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\SSH.NET\src\Renci.SshNet\Renci.SshNet.csproj" />
+    </ItemGroup>
 </Project>
